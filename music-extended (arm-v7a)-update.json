@@ -1,6 +1,6 @@
 {
-  "version": "v6.50.51",
-  "versionCode": 20220941,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220941/music-revanced-extended-magisk-v6.50.51-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "version": "v7.06.53",
+  "versionCode": 6,
+  "zipUrl": "https://github.com/misike12/revanced-extended-magisk-module/releases/download/6/music-revanced-extended-magisk-v7.06.53-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/misike12/revanced-extended-magisk-module/update/build.md"
 }
